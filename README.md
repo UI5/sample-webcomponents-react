@@ -1,6 +1,6 @@
 ![UI5 logo](/docs/images/UI5_logo_wide.png)
-[![CI](https://github.com/SAP-samples/sample-webcomponents-react/actions/workflows/ci.yml/badge.svg)](https://github.com/SAP-samples/sample-webcomponents-react/actions/workflows/ci.yml)
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sample-webcomponents-react)](https://api.reuse.software/info/github.com/SAP-samples/sample-webcomponents-react)
+[![CI](https://github.com/UI5/sample-webcomponents-react/actions/workflows/ci.yml/badge.svg)](https://github.com/UI5/sample-webcomponents-react/actions/workflows/ci.yml)
+[![REUSE status](https://api.reuse.software/badge/github.com/UI5/sample-webcomponents-react)](https://api.reuse.software/info/github.com/UI5/sample-webcomponents-react)
 
 # UI5 Web Components React Sample Application
 
@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Getting started
 1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/) using the [GitHub Command line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and navigate into the downloaded directory.
     ```sh
-    git clone https://github.com/SAP-samples/sample-webcomponents-react.git
+    git clone https://github.com/UI5/sample-webcomponents-react.git
     cd sample-webcomponents-react
     ```
 2. Install all dependencies
