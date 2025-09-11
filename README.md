@@ -1,11 +1,11 @@
 ![UI5 logo](/docs/images/UI5_logo_wide.png)
-[![CI](https://github.com/SAP-samples/ui5-webcomponents-sample-react/actions/workflows/ci.yml/badge.svg)](https://github.com/SAP-samples/ui5-webcomponents-sample-react/actions/workflows/ci.yml)
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/ui5-webcomponents-sample-react)](https://api.reuse.software/info/github.com/SAP-samples/ui5-webcomponents-sample-react)
+[![CI](https://github.com/UI5/sample-webcomponents-react/actions/workflows/ci.yml/badge.svg)](https://github.com/UI5/sample-webcomponents-react/actions/workflows/ci.yml)
+[![REUSE status](https://api.reuse.software/badge/github.com/UI5/sample-webcomponents-react)](https://api.reuse.software/info/github.com/UI5/sample-webcomponents-react)
 
 # UI5 Web Components React Sample Application
 
 
-[React](https://reactjs.org/) sample application to demonstrate the usage of the [UI5 Web Components](https://github.com/SAP/ui5-webcomponents). It shows how to bind properties, to subscribe to events, using nested components and the bootstrapped React build.
+[React](https://reactjs.org/) sample application to demonstrate the usage of the [UI5 Web Components](https://github.com/UI5/webcomponents). It shows how to bind properties, to subscribe to events, using nested components and the bootstrapped React build.
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
@@ -16,8 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Getting started
 1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/) using the [GitHub Command line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and navigate into the downloaded directory.
     ```sh
-    git clone https://github.com/SAP-samples/ui5-webcomponents-sample-react.git
-    cd ui5-webcomponents-sample-react
+    git clone https://github.com/UI5/sample-webcomponents-react.git
+    cd sample-webcomponents-react
     ```
 2. Install all dependencies
     ```sh
@@ -85,7 +85,7 @@ No limitations known.
 No major bugs known.
 
 ## Support
-We welcome all comments, suggestions, questions, and bug reports. Please follow our [Support Guidelines](https://github.com/SAP/ui5-webcomponents/blob/main/SUPPORT.md#-content) on how to report an issue, or chat with us in the `#webcomponents` channel of the [OpenUI5 Community Slack](https://ui5-slack-invite.cfapps.eu10.hana.ondemand.com/).
+We welcome all comments, suggestions, questions, and bug reports. Please follow our [Support Guidelines](https://github.com/UI5/webcomponents/blob/main/SUPPORT.md#-content) on how to report an issue, or chat with us in the `#webcomponents` channel of the [OpenUI5 Community Slack](https://ui5-slack-invite.cfapps.eu10.hana.ondemand.com/).
 
 ## Contribute to UI5 Web Components
-Please check our [Contribution Guidelines](https://github.com/SAP/ui5-webcomponents/blob/main/CONTRIBUTING.md).
+Please check our [Contribution Guidelines](https://github.com/UI5/webcomponents/blob/main/CONTRIBUTING.md).
