@@ -504,7 +504,7 @@ function App() {
 					<b>Admin version</b>: React Admin <br></br>
 					<hr></hr>
 					For more information, please visit our{" "}
-					<ui5-link href="https://github.com/SAP-samples/ui5-webcomponents-sample-react" target="_blank">
+					<ui5-link href="https://github.com/SAP-samples/sample-webcomponents-react" target="_blank">
 						documentation
 					</ui5-link>
 					.
